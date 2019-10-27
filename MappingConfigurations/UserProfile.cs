@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using GettingStartedWithAutoMappers.Models;
-using GettingStartedWithAutoMappers.ViewModels;
+using AutoMapperDemo.Models;
+using AutoMapperDemo.ViewModels;
 
-namespace GettingStartedWithAutoMappers.MappingConfigurations
+namespace AutoMapperDemo.MappingConfigurations
 {
     public class UserProfile : Profile
     {

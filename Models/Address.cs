@@ -1,4 +1,4 @@
-﻿namespace GettingStartedWithAutoMappers.Models
+﻿namespace AutoMapperDemo.Models
 {
     public class Address
     {

@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using GettingStartedWithAutoMappers.Models;
+using AutoMapperDemo.Models;
 
-namespace GettingStartedWithAutoMappers.Controllers
+namespace AutoMapperDemo.Controllers
 {
     public class HomeController : Controller
     {

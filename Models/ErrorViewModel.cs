@@ -1,6 +1,6 @@
 using System;
 
-namespace GettingStartedWithAutoMappers.Models
+namespace AutoMapperDemo.Models
 {
     public class ErrorViewModel
     {

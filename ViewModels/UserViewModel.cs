@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace GettingStartedWithAutoMappers.ViewModels
+namespace AutoMapperDemo.ViewModels
 {
     public class UserViewModel
     {

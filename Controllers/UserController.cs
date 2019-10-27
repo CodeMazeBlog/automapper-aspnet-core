@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
-using GettingStartedWithAutoMappers.Models;
-using GettingStartedWithAutoMappers.ViewModels;
+using AutoMapperDemo.Models;
+using AutoMapperDemo.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 
-namespace GettingStartedWithAutoMappers.Controllers
+namespace AutoMapperDemo.Controllers
 {
     public class UserController : Controller
     {
